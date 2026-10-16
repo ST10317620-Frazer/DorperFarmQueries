@@ -1,0 +1,14 @@
+/Users/parisfrazer/DorperFarmQueries/PostQueries/bin/Debug/net9.0/PostQueries
+/Users/parisfrazer/DorperFarmQueries/PostQueries/bin/Debug/net9.0/PostQueries.deps.json
+/Users/parisfrazer/DorperFarmQueries/PostQueries/bin/Debug/net9.0/PostQueries.runtimeconfig.json
+/Users/parisfrazer/DorperFarmQueries/PostQueries/bin/Debug/net9.0/PostQueries.dll
+/Users/parisfrazer/DorperFarmQueries/PostQueries/bin/Debug/net9.0/PostQueries.pdb
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.AssemblyInfoInputs.cache
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.AssemblyInfo.cs
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.csproj.CoreCompileInputs.cache
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.dll
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/refint/PostQueries.dll
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.pdb
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/PostQueries.genruntimeconfig.cache
+/Users/parisfrazer/DorperFarmQueries/PostQueries/obj/Debug/net9.0/ref/PostQueries.dll
